@@ -1,0 +1,67 @@
+<prodzona10>
+<nom_zona>Madrid-CENTRO</nom_zona>
+	<produc>
+        <cod_prod xmlns="">1010</cod_prod>
+        <denominacion xmlns="">PLACA BASE MSI G41M-P26</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1010</cod_prod>
+        <denominacion xmlns="">MICRO INTEL CORE I5-2320</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1010</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 G.SKILL 2GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1010</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 G.SKILL 4GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1011</cod_prod>
+        <denominacion xmlns="">PLACA BASE MSI G41M-P26</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1011</cod_prod>
+        <denominacion xmlns="">MICRO INTEL CORE I5-2320</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1011</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 G.SKILL 2GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1011</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 G.SKILL 4GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1019</cod_prod>
+        <denominacion xmlns="">PLACA BASE MSI G41M-P26</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1019</cod_prod>
+        <denominacion xmlns="">MICRO INTEL CORE I5-2320</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1019</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 G.SKILL 2GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1019</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 G.SKILL 4GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1020</cod_prod>
+        <denominacion xmlns="">PLACA BASE MSI G41M-P26</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1020</cod_prod>
+        <denominacion xmlns="">MICRO INTEL CORE I5-2320</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1020</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 G.SKILL 2GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1020</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 G.SKILL 4GB</denominacion>
+    </produc>
+</prodzona10>

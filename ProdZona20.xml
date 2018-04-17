@@ -1,0 +1,39 @@
+<prodzona20>
+<nom_zona>Extremadura-Galicia</nom_zona>
+	<produc>
+        <cod_prod xmlns="">1012</cod_prod>
+        <denominacion xmlns="">MICRO INTEL CORE I5 2500</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1012</cod_prod>
+        <denominacion xmlns="">HD SEAGATE BARRACUDA 250GB SATA</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1012</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 KINGSTON HYPERX 4GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1013</cod_prod>
+        <denominacion xmlns="">MICRO INTEL CORE I5 2500</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1013</cod_prod>
+        <denominacion xmlns="">HD SEAGATE BARRACUDA 250GB SATA</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1013</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 KINGSTON HYPERX 4GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1021</cod_prod>
+        <denominacion xmlns="">MICRO INTEL CORE I5 2500</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1021</cod_prod>
+        <denominacion xmlns="">HD SEAGATE BARRACUDA 250GB SATA</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1021</cod_prod>
+        <denominacion xmlns="">MEMORIA DDR3 KINGSTON HYPERX 4GB</denominacion>
+    </produc>
+</prodzona20>

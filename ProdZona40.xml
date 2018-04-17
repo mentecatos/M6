@@ -1,0 +1,19 @@
+<prodzona40>
+<nom_zona>Andalucía</nom_zona>
+	<produc>
+        <cod_prod xmlns="">1016</cod_prod>
+        <denominacion xmlns="">TARJETA GRÁFICA GIGABYTE GEFORCE 1GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1016</cod_prod>
+        <denominacion xmlns="">MICRO INTEL DUAL CORE G620</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1018</cod_prod>
+        <denominacion xmlns="">TARJETA GRÁFICA GIGABYTE GEFORCE 1GB</denominacion>
+    </produc>
+	<produc>
+        <cod_prod xmlns="">1018</cod_prod>
+        <denominacion xmlns="">MICRO INTEL DUAL CORE G620</denominacion>
+    </produc>
+</prodzona40>
